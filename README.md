@@ -1,2 +1,2 @@
-# ZP330
-cm12.1编译TWRP_mtk6752
+# AQ5001-TWRP Recowery
+cm12.1 TWRP_mtk6582
